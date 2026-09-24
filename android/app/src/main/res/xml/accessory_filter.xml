@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SALIN isi asli dari sample DJI:
+     Mobile-SDK-Android-V5/SampleCode-V5/android-sdk-v5-as/sample/src/main/res/xml/accessory_filter.xml
+     (isi di bawah hanya placeholder supaya build tidak error) -->
+<resources>
+    <usb-accessory manufacturer="DJI" model="DJI RC"/>
+</resources>
