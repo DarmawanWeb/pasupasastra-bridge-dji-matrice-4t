@@ -1,0 +1,3 @@
+sdk.dir=/path/to/Android/sdk
+flutter.sdk=/path/to/flutter
+DJI_API_KEY=isi-app-key-dari-developer.dji.com
