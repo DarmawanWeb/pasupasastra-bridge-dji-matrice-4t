@@ -1,3 +1,4 @@
 sdk.dir=/path/to/Android/sdk
 flutter.sdk=/path/to/flutter
-DJI_API_KEY=isi-app-key-dari-developer.dji.com
+# App key from developer.dji.com for the package com.darmawan.dronebridge
+DJI_API_KEY=your-dji-app-key
