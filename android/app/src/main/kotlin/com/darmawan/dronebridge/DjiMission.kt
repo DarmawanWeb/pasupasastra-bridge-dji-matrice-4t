@@ -46,7 +46,7 @@ import kotlin.math.sqrt
 data class GcsWaypoint(val lat: Double, val lon: Double, val altM: Double, val speedMs: Double, val holdS: Double, val photo: Boolean)
 
 /**
- * Converts a PASUPATASTRA mission plan into a DJI WPML KMZ (Waypoint V3), following
+ * Converts a PASUPASASTRA mission plan into a DJI WPML KMZ (Waypoint V3), following
  * DJI's KMZTestUtil (Mobile-SDK-Android-V5 sample). Altitudes are relative to the takeoff point.
  */
 object DjiMission {

@@ -67,7 +67,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     final pos = (_tele['pos'] ?? {}) as Map;
     return Scaffold(
-      appBar: AppBar(title: const Text('M4T Bridge · PASUPATASTRA')),
+      appBar: AppBar(title: const Text('M4T Bridge · PASUPASASTRA')),
       body: ListView(padding: const EdgeInsets.all(16), children: [
         Text('SDK: $_sdk'),
         const SizedBox(height: 12),
@@ -81,7 +81,7 @@ class _HomePageState extends State<HomePage> {
           contentPadding: EdgeInsets.zero,
           title: const Text('Izinkan kendali dari GCS'),
           subtitle: const Text(
-              'Lepas landas, mendarat, RTH, dan misi waypoint dari PASUPATASTRA. '
+              'Lepas landas, mendarat, RTH, dan misi waypoint dari PASUPASASTRA. '
               'Berlaku saat bridge dimulai. Matikan bila tidak diawasi pilot.'),
           value: _control,
           onChanged: _running ? null : (v) => setState(() => _control = v),

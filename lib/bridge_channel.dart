@@ -9,7 +9,7 @@ class BridgeChannel {
       .receiveBroadcastStream()
       .map((e) => Map<String, dynamic>.from(e as Map));
 
-  /// [control] = interlock: allow PASUPATASTRA to send flight commands and missions.
+  /// [control] = interlock: allow PASUPASASTRA to send flight commands and missions.
   static Future<void> start(String ws, String rtmp, {bool control = false}) =>
       _method.invokeMethod('start', {'ws': ws, 'rtmp': rtmp, 'control': control});
 

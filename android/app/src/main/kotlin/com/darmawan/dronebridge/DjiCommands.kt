@@ -19,7 +19,7 @@ import java.io.File
 typealias Reply = (accepted: Boolean, message: String) -> Unit
 
 /**
- * Executes PASUPATASTRA GCS commands on the Matrice 4T through MSDK v5.
+ * Executes PASUPASASTRA GCS commands on the Matrice 4T through MSDK v5.
  * Same protocol as the Autel bridge (command / mission -> ack, plus events).
  * Nothing runs unless "Izinkan kendali dari GCS" is enabled on the controller (interlock).
  *
