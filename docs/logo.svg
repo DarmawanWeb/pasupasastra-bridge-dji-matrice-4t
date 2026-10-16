@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="112" viewBox="0 0 1024 1024" role="img" aria-label="PASUPASASTRA">
+  <rect width="1024" height="1024" fill="#090d12"/>
+  <rect x="62" y="62" width="900" height="900" fill="none" stroke="#39d0d8" stroke-width="28"/>
+  <g fill="none" stroke="#cdf6f8" stroke-width="10">
+    <circle cx="512" cy="512" r="328"/>
+    <circle cx="512" cy="512" r="228"/>
+    <circle cx="512" cy="512" r="128"/>
+    <path d="M170 512H854M512 170V854"/>
+  </g>
+  <path d="M512 250L682 760L512 640L342 760Z" fill="#39d0d8"/>
+</svg>
