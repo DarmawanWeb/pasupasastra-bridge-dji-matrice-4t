@@ -1,0 +1,29 @@
+PASUPASASTRA Proprietary License
+
+Copyright (c) 2026 I Wayan Agus Darmawan (DarmawanWeb). All rights reserved.
+
+This repository is part of PASUPASASTRA, a multi-drone ground control station. The source code,
+documentation, designs and other materials in it (the "Software") are the proprietary property of
+the copyright holder. The Software is published so that it can be viewed; publication does not
+grant a license.
+
+1. Permitted. You may view the Software on GitHub and, to the extent required by the GitHub Terms
+   of Service, fork it within GitHub.
+
+2. Not permitted without the copyright holder's prior written permission: using, running,
+   deploying, copying, modifying, merging, translating, distributing, sublicensing, selling or
+   offering the Software, or any part or derivative of it, as a product or a service, for any
+   purpose, commercial or not.
+
+3. Third-party components (for example the DJI Mobile SDK, the Autel SDK, open-source libraries
+   and AI models) remain under their own licenses and terms, which you must obtain and accept from
+   their owners. Nothing in this repository grants rights to them.
+
+4. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT
+   NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR ITS USE. Operating aircraft with the Software is at the operator's
+   own risk and must follow the applicable aviation regulations.
+
+For licensing, evaluation or partnership: darmawandeveloper@gmail.com
