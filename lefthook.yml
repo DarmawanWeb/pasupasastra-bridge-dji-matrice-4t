@@ -1,0 +1,10 @@
+pre-commit:
+  commands:
+    analyze:
+      glob: "*.dart"
+      run: flutter analyze --no-fatal-infos --no-fatal-warnings
+commit-msg:
+  commands:
+    conventional:
+      run: |
+        grep -qE '^(feat|fix|docs|style|refactor|perf|test|build|ci|chore|revert)(\(.+\))?!?: .+' {1} || { echo "use conventional commits, e.g. feat(mission): add x"; exit 1; }
